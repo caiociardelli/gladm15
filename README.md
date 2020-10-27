@@ -27,7 +27,7 @@ Bozdağ, E., Peter, D., Lefebvre, M., Komatitsch, D., Tromp, J., Hill, J., Podho
 * Python 2.7.12 or greater;
 * GMT 6.0.0 or greater;
 
-2. Download the latest version of GLADM15 at [sphModel:GLADM15](https://github.com/caiociardelli/gladm15)
+2. Download the latest version of GLADM15 at [SphModel:GLADM15](https://github.com/caiociardelli/gladm15).
 
 3. Untar the crustal block model using:
 
@@ -50,7 +50,7 @@ same menu is also at the beginning of each source code. For more details, please
 ## Development
 -----------------------
 
-Development is hosted on GitHub at [sphGllTools](https://github.com/caiociardelli/sphglltools).
+Development is hosted on GitHub at [SphGLLTools](https://github.com/caiociardelli/sphglltools).
 
 ## Model parametrization
 -----------------------
