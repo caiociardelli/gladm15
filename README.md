@@ -12,7 +12,7 @@ Ciardelli, C., Bozdağ, E. and Peter, D., 2020. SphGLLTools: A set of routines f
 # GLAD-M15
 -----------------------
 
-Please, also make sure to cite the author of GLADM15:
+Please, also make sure to cite the authors of GLAD-M15:
 
 Bozdağ, E., Peter, D., Lefebvre, M., Komatitsch, D., Tromp, J., Hill, J., Podhorszki, N., Pugmire, D., 2016. Global adjoint tomography: first-generation model. Geophysical Journal International 207, 1739–1766. URL: https://doi.org/10.1093/gji/ggw356.
 
@@ -27,7 +27,7 @@ Bozdağ, E., Peter, D., Lefebvre, M., Komatitsch, D., Tromp, J., Hill, J., Podho
 * Python 2.7.12 or greater;
 * GMT 6.0.0 or greater;
 
-2. Download the latest version of GLADM15 at [SphModel:GLADM15](https://github.com/caiociardelli/gladm15).
+2. Download the latest version of GLAD-M15 at [SphModel:GLAD-M15](https://github.com/caiociardelli/gladm15).
 
 3. Untar the crustal block model using:
 
